@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "shopping-cart-50b78": {
+      "hosting": {
+        "frontend": [
+          "shopping-cart-50b78"
+        ]
+      }
+    }
+  }
+}

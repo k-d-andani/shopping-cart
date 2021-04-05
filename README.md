@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
+This project contains two different project - frontend and admin.
+
+Google oAuth is already implemented for both of the projects.
+
+Firebase setup also added.
+
+Please create Environments files with Google Security account settings and firbase setting as needed.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
